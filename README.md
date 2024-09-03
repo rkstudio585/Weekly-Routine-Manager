@@ -210,6 +210,6 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 For any queries or support, feel free to reach out to the project maintainers.
 
 ---
-![app logo](assets/app_logo.png)
+![app logo](https://github.com/mdriyadkhan585/Weekly-Routine-Manager/blob/main/assets/app_icon.png)
 
 ---
