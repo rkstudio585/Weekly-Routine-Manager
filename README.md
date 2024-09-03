@@ -11,7 +11,7 @@
 The **Weekly Routine Manager** is a sleek and intuitive desktop application designed to help you manage and organize your weekly routines. Built with Python and the `PySide6` library, this app offers a user-friendly interface for creating, viewing, editing, deleting, importing, and exporting your daily schedules. Whether you're a fan of dark mode or prefer a light theme, this app provides an easy toggle between the two, ensuring a comfortable user experience.
 
 ---
-![gif](assets/example.gif)
+![gif](https://github.com/mdriyadkhan585/Weekly-Routine-Manager/blob/main/assets/example.gif)
 
 ---
 ## ✨ Features
